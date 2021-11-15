@@ -7,7 +7,6 @@ write "start!"
 while ($i -le $x) {
     #メモ帳を開く
     Start-Sleep 59;
-
     #開くメモ帳のディレクトリを記載
     notepad.exe C\Temp123.txt
 
